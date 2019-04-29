@@ -1,0 +1,29 @@
+﻿<Page
+    x:Class="Bassin_Expert.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Bassin_Expert"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:ConnectionId='2' x:Name="Background">
+        <Grid.Background>
+            <ImageBrush ImageSource="fond.jpg" Opacity="0.3"/>
+        </Grid.Background>
+        <TextBlock HorizontalAlignment="Left" Margin="516,0,0,0" Text="Mesures Réelles" TextWrapping="Wrap" VerticalAlignment="Top" Height="96" Width="534" FontSize="72"/>
+        <Grid HorizontalAlignment="Left" Height="90" Margin="0,134,0,0" VerticalAlignment="Top" Width="1217">
+            <TextBlock HorizontalAlignment="Left" Margin="52,0,0,0" Text="pH:" TextWrapping="Wrap" VerticalAlignment="Center" Height="91" Width="114" FontSize="48"/>
+            <TextBlock HorizontalAlignment="Left" Margin="130,0,0,0" Text="7" TextWrapping="Wrap" VerticalAlignment="Center" Height="90" Width="74" FontSize="48" FocusVisualSecondaryBrush="{x:Null}"/>
+            <TextBlock HorizontalAlignment="Left" Margin="212,0,0,0" Text="Niveau de l'eau:" TextWrapping="Wrap" VerticalAlignment="Center" Height="90" Width="338" FontSize="48"/>
+            <TextBlock x:ConnectionId='5' x:Name="textblock_niveau" HorizontalAlignment="Left" Height="90" Margin="554,0,0,0" Text="+4" TextWrapping="Wrap" VerticalAlignment="Center" Width="78" FontSize="48"/>
+            <TextBlock HorizontalAlignment="Left" Height="90" Margin="670,0,0,0" Text="Température:" TextWrapping="Wrap" VerticalAlignment="Center" Width="294" FontSize="48"/>
+            <TextBlock HorizontalAlignment="Left" Height="92" Margin="952,0,0,0" Text="-8" TextWrapping="Wrap" VerticalAlignment="Center" Width="81" FontSize="48"/>
+        </Grid>
+        <Button x:ConnectionId='3' x:Name="mode_auto" Content="Mode Automatique : désactivé" HorizontalAlignment="Left" Margin="0,229,0,0" VerticalAlignment="Top" Height="90" Width="522" FontSize="36"                         Background="White" FocusVisualPrimaryBrush="White"/>
+        <TextBlock x:ConnectionId='4' x:Name="releveGpio" HorizontalAlignment="Left" Margin="707,274,0,0" Text="fevrevr" TextWrapping="Wrap" VerticalAlignment="Top" Height="143" Width="334" FontSize="36"/>
+
+    </Grid>
+</Page>
+

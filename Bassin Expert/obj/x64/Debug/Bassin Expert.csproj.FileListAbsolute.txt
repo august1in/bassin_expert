@@ -1,0 +1,43 @@
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\bin\x64\Debug\App.xbf
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\bin\x64\Debug\MainPage.xbf
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\bin\x64\Debug\Bassin Expert.xr.xml
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\bin\x64\Debug\Bassin Expert.exe
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\bin\x64\Debug\Bassin Expert.pdb
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\bin\x64\Debug\resources.pri
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\bin\x64\Debug\AppxManifest.xml
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\bin\x64\Debug\Core\Bassin Expert.exe
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\bin\x64\Debug\Bassin Expert.build.appxrecipe
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\bin\x64\Debug\System.Runtime.dll
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\obj\x64\Debug\App.g.i.cs
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\obj\x64\Debug\App.g.cs
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\obj\x64\Debug\MainPage.g.cs
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\obj\x64\Debug\App.xaml
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\obj\x64\Debug\MainPage.xaml
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\obj\x64\Debug\App.xbf
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\obj\x64\Debug\MainPage.xbf
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\obj\x64\Debug\Bassin Expert.csproj.CoreCompileInputs.cache
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\obj\x64\Debug\Bassin Expert.csproj.CopyComplete
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\obj\x64\Debug\Bassin Expert.exe
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\obj\x64\Debug\Bassin Expert.pdb
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\obj\x64\Debug\priconfig.xml
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\obj\x64\Debug\resources.resfiles
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\obj\x64\Debug\pri.resfiles
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\obj\x64\Debug\qualifiers.txt
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\Augustin GRIESSER\Documents\Cours\Projet\Bassin Expert\Bassin Expert\obj\x64\Debug\Bassin Expert.csprojAssemblyReference.cache
